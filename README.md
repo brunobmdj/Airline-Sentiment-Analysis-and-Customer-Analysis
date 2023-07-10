@@ -15,7 +15,7 @@ This project is a part of the Data Science virtual internship program offered by
   2. Perform cleaning of data using NLTK performing Text Lemmatization, Stemming, Removing Special Characters.
   3. Use WordCloud, NLTK, Textblob to understand the most commonly used words and find the overall sentiment of the Customers and the nature of the ratings whether they are positive, negative or neutral.
 
-- Result: We found that most reviews were with positive sentiment with over 54%, about 3.8% were neutral and remaining 41% were negative.
+- Result: We found that most reviews were with positive sentiment with over 54%, about 3.8% were neutral and remaining 41% were with negative sentient.
 
 # Task 2 - Predicting customer buying behaviour
 
