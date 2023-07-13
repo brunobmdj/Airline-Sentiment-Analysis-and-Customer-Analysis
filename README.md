@@ -19,11 +19,11 @@ This project is a part of the Data Science virtual internship program offered by
 
 # Task 2 - Predicting customer buying behaviour
 
-- Goal: To predict customer's booking behaviour and find which customers are most likely to book a holiday in the future and to find what is the impact of each feature.
+- Goal: To predict customer's booking behaviour to find which customers are most likely to book a holiday in the future and to find what is the most important feature determining that.
 
 - Process:
   1. Perform data cleaning followed by EDA to understand the relationships of all features.
-  2. Present the analysis in a dashboard [Link Here]{https://public.tableau.com/app/profile/bruno.maria7382/viz/BA_Forage/Dashboard1?publish=yes}
+  2. Present the analysis in a dashboard [[Link Here](https://public.tableau.com/app/profile/bruno.maria7382/viz/BA_Forage/Dashboard1?publish=yes)].
   3. Develop a predictive model to accuractely predict whether the customer will confirm the booking or not with the help of some Feature Engineering and find the features that are most co-related with the customer booking.
 
 - Result: Using AdaptiveBoosting ML algorithm along with HyperParameter tuning, we achieved a prediction accuracy of over 90% for both Train and Test data and found that *Length of Stay* is the most influential feature which plays a role in the customer booking the ticket.
